@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=2196F3&width=600&lines=Hi+I'm+Daniyal+👋;Passionate+Frontend+Developer+from+India+💻;Specialized+in+React+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&duration=2000&pause=500&center=true&vCenter=true&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 
 <!--
