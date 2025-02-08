@@ -14,11 +14,13 @@
 
 ## 🔥 My Projects  
 
-🚀 [Portfolio Website](https://github.com/Daniyalk0/Daniyal-Portfolio)  
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Daniyalk0/Daniyal-Portfolio)  
 Built with React, Tailwind CSS & i18next (multi-language support)  
 
-🌟 [E-commerce App](https://github.com/Daniyalk0/onixstore)  
+[![E-commerce](https://img.shields.io/badge/🌟%20E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/Daniyalk0/onixstore)  
 Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval  
+
+
 
  ---
 
