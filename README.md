@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&width=600&lines=Hi+I'm+Daniyal+👋;Passionate+Frontend+Developer+from+India+💻;Specialized+in+React+🔥)](https://git.io/typing-svg)
+
 
 <!--
 **Daniyalk0/Daniyalk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
