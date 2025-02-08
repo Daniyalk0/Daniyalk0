@@ -2,6 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=30&duration=2000&pause=300&center=false&vCenter=false&multiline=false&width=600&lines=Hi+I'm+Daniyal;Passionate+Frontend+Developer🔥;Specialized+in+React🚀)](https://git.io/typing-svg)
 
+## 🚀 About Me  
+
+### 👨‍💻 **Frontend Web Developer | React Enthusiast**  
+
+- 🎯 **Expertise:** ![#61DAFB](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![#3178C6](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![#F7DF1E](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- 🌱 **Currently Learning:** ![#000000](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+- 💙 **Looking to colaborate on:** Open-source projects
+
+---
+
+## 🔥 My Projects  
+
+🚀 [Portfolio Website](https://github.com/Daniyalk0/Daniyal-Portfolio)  
+Built with React, Tailwind CSS & i18next (multi-language support)  
+
+🌟 [E-commerce App](https://github.com/Daniyalk0/onixstore)  
+Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval  
+
+ ---
+
 ## 🛠 Tech Stack  
 
 ### 👨‍💻 Coding Languages  
@@ -18,6 +38,17 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 📫 **Connect with me**  
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:getdaniyalkhan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://daniyal-portfolio-delta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-khan-648107263/)
+
+ ---
+
+ ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
