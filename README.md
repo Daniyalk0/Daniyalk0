@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&width=600&lines=Hi+I'm+Daniyal+👋;Passionate+Frontend+Developer+from+India+💻;Specialized+in+React+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Code&size=24&duration=3000&color=2196F3&width=600&lines=Hi+I'm+Daniyal+👋;Passionate+Frontend+Developer+from+India+💻;Specialized+in+React+🔥)](https://git.io/typing-svg)
 
 
 <!--
