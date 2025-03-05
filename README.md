@@ -1,21 +1,21 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=30&duration=2000&pause=300&center=false&vCenter=false&multiline=false&width=600&lines=Hi+I'm+Daniyal;Passionate+Frontend+Developer🔥;Specialized+in+React🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=30&duration=2000&pause=300&center=false&vCenter=false&multiline=false&width=600&lines=Hi+I'm+Daniyal;Passionate+Frontend+Developer🔥;Specialized+in+React+and+Nextjs🚀)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 
 ### 👨‍💻 **Frontend Web Developer | React Enthusiast**  
 
-- 🎯 **Expertise:** ![#61DAFB](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![#3178C6](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![#F7DF1E](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-- 🌱 **Currently Learning:** ![#000000](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+- 🎯 **Expertise:** ![#61DAFB](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![#3178C6](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![#F7DF1E](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![#000000](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 - 💙 **Looking to colaborate on:** Open-source projects
 
 ---
 
 ## 🔥 My Projects  
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Daniyalk0/Daniyal-Portfolio)  
-Built with React, Tailwind CSS & i18next (multi-language support)  
+[![YC Directory App](https://img.shields.io/badge/🚀%20YC%20Directory%20App-EE2B69?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Daniyalk0/YC-Directory-App)  
+Built with Next.js, React.js, Sanity, TypeScript & Tailwind CSS. 
 
 [![E-commerce](https://img.shields.io/badge/🌟%20E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/Daniyalk0/onixstore)  
 Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval  
@@ -33,8 +33,9 @@ Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
 ### 🚀 Libraries & Frameworks  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![React js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### 🛠 Other Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
