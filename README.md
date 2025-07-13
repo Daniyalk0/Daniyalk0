@@ -46,7 +46,7 @@ Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval
 
 ### 📫 **Connect with me**  
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:getdaniyalkhan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)]([https://daniyal-khan.vercel.app/](https://daniyal-khan.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://daniyal-khan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-khan-648107263/)
 
  ---
