@@ -14,8 +14,8 @@
 
 ## 🔥 My Projects  
 
-[![YC Directory App](https://img.shields.io/badge/🚀%20YC%20Directory%20App-EE2B69?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Daniyalk0/YC-Directory-App)  
-Built with Next.js, React.js, Sanity, TypeScript & Tailwind CSS. 
+[![WriteWise AI](https://img.shields.io/badge/🚀%20WriteWise%20AI%20-F97316?style=for-the-badge&logo=next.js&logoColor=white)](https://writewise-ai.vercel.app/)  
+Built with Next.js, Firebase, TypeScript, Tailwind CSS, Open Router API and Framer Motion.
 
 [![E-commerce](https://img.shields.io/badge/🌟%20E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/Daniyalk0/onixstore)  
 Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval  
@@ -46,7 +46,7 @@ Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval
 
 ### 📫 **Connect with me**  
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:getdaniyalkhan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://daniyal-portfolio-delta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=vercel&logoColor=white)]([https://daniyal-khan.vercel.app/](https://daniyal-khan.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-khan-648107263/)
 
  ---
