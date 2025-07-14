@@ -17,8 +17,8 @@
 [![WriteWise AI](https://img.shields.io/badge/🚀%20WriteWise%20AI%20-F97316?style=for-the-badge&logo=next.js&logoColor=white)](https://writewise-ai.vercel.app/)  
 Built with Next.js, Firebase, TypeScript, Tailwind CSS, Open Router API and Framer Motion.
 
-[![E-commerce](https://img.shields.io/badge/🌟%20E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/Daniyalk0/onixstore)  
-Built with React, Tailwind CSS & Appwrite (BAAS) with real-time data retrieval  
+[![Serena Blake Therapist](https://img.shields.io/badge/🌟%20Serena--Blake--Therapist-F3F0E8?style=for-the-badge&logo=shopify&logoColor=white)](https://sererna-blake-therapist-assignment.vercel.app/)  
+Built with Next.js, Tailwind CSS, Framer Motion 
 
 
 
