@@ -16,7 +16,7 @@
 [![Greenova](https://img.shields.io/badge/🌱%20Greenova-Fresh%20Groceries-16A34A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://Greenova-pi.vercel.app/)  
 Built with Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Supabase & NextAuth.js
 
-[![Tailr](https://img.shields.io/badge/🚀%20Tailr-Resume%20Customizer-6366F1?style=for-the-badge&logo=next.js&logoColor=white)](https://tailr.vercel.app/)  
+[![Tailr](https://img.shields.io/badge/🚀%20Tailr-Resume%20Customizer-6366F1?style=for-the-badge&logo=next.js&logoColor=white)](https://tailr-reumse-customizer.vercel.app/)  
 Built with Next.js, Python, FastAPI, PostgreSQL, SQLAlchemy and Groq API.
 
 
